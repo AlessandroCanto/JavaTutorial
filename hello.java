@@ -1,0 +1,2 @@
+//Simple window creator
+public
